@@ -7,7 +7,9 @@
 **/.exercism
 **/.npmrc
 **/babel.config.js
-**/HELP.md
 **/LICENSE
 **/package-lock.json
 **/package.json
+**/babel.config.cjs
+**/eslint.config.mjs
+**/jest.config.cjs
